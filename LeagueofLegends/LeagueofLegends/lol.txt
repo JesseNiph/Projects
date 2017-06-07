@@ -1,0 +1,25 @@
+
+Ezreal|Mystic Shot|35|55|75|95|115|Essence Flux|70|115|160|205|250|Arcane Shift|75|125|175|225|275|True Shot Barrage|350|500|650|
+Caitlyn|Piltover Peacemaker|20|60|100|140|180|Yordle Snap Trap|80|130|180|230|280|90 Caliber Net|80|130|180|230|280|Ace in the Hole|250|475|700|
+Kalista|Pierce|10|70|130|190|250|Sentinal|12|15|16|18|24|Rend|20|30|40|50|60|Fates Call|1.5|1.75|2|
+Jinx|Switcheroo|15|27.5|40|52|65|Zap|10|60|110|160|210|Flame Chompers|80|135|190|245|300|Super Mega Death Rocket|250|350|450|
+
+Ahri|Orb of Deception|80|130|180|230|280|Fox Fire|40|65|90|115|140|Charm|60|95|130|165|200|Spirit Rush|70|110|150|
+Azir|Conquering Sands|65|85|105|125|145|Arise!|0|0|0|0|0|Shifting Sands|60|90|120|150|180|Emperors Divide|150|225|300|
+Katarina|Bouncing Blades|60|85|110|135|160|Sinister Steel|40|75|110|145|180|Shunpo|60|85|110|135|160|Death Lotus|350|550|750|
+Velkoz|Plasma Fission|80|120|160|200|240|Void Rift|75|125|175|225|275|Tectonic Disruption|70|100|130|160|190|Lifeform Disintegration Ray|500|700|900|
+
+Janna|Howling Gale|60|85|110|135|160|Zephyr|60|115|170|225|280|Eye of the Storm|80|120|160|200|240|Monsoon|300|450|600|
+Leona|Shield of Daybreak|40|70|100|130|160|Eclipse|60|110|160|210|260|Zenith Blade|60|100|140|180|220|Solar Flare|150|250|350|
+Sona|Hymn of Valor|40|80|120|160|200|Aria of Perserverance|45|75|105|135|165|Song of Celerity|10|11|12|13|14|Crescendo|150|250|350|
+Nami|Aqua Prison|75|130|185|240|295|Ebb and Flow|70|110|150|190|230|Tidecaller Blessing|75|120|165|210|235|Tidal Wave|150|250|350|
+
+Jarvan IV|Dragon Strike|70|115|160|205|250|Golden Aegis|150|240|330|420|510|Damacian Standard|60|105|150|195|240|Cataclysm|200|325|450|
+Fiddlesticks|Terrify|1.25|1.5|1.75|2|2.25|Drain|300|450|600|750|900|Dark Wind|195|225|315|375|435|Crowstorm|625|1125|1625|
+Vi|Vault Breaker|100|150|200|250|300|Denting Blows|4|5.5|7|8.5|10|Excessive Force|5|20|35|50|65|Assault and Battery|200|325|450|
+Sejuani|Arctic Assault|80|125|170|215|260|Flail of the Northern Winds|40|70|100|130|160|Permafrost|60|90|120|150|180|Glacial Prison|150|250|350|
+
+Jarvan IV|Dragon Strike|70|115|160|205|250|Golden Aegis|150|240|330|420|510|Damacian Standard|60|105|150|195|240|Cataclysm|200|325|450|
+Sion|Decimating Smash|60|120|180|240|300|Soul Furnace|40|65|90|115|140|Roar of the Slayer|70|105|140|175|210|Unstoppable Onslaught|300|600|900|
+Riven|Broken Wings|30|90|150|210|270|Ki Burst|50|80|110|140|170|Valor|90|120|150|180|210|Blade of the Exile/Wind Slash|240|360|480|
+Gangplank|Parrrley|20|45|70|95|120|Remove Scurvy|80|150|220|290|360|Raise Morale|8|10|12|14|16|Cannon Barrage|525|840|1155|

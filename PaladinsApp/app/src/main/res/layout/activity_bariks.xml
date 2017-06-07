@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.jesseniph.paladinsapp.Bariks">
+
+
+    <ImageButton
+        android:id="@+id/BariksLeftClick"
+        android:onClick="goToAndroxus"
+        android:layout_width="109dp"
+        android:layout_height="108dp"
+        android:src="@drawable/bariks_left_click"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="127dp"
+        android:layout_marginLeft="76dp"
+        app:layout_constraintRight_toLeftOf="@+id/BariksRightClick"
+        android:layout_marginRight="8dp"
+        app:layout_constraintHorizontal_bias="0.041" />
+
+    <ImageButton
+        android:id="@+id/BariksRightClick"
+        android:onClick="goToAndroxus"
+        android:layout_width="109dp"
+        android:layout_height="108dp"
+        android:src="@drawable/bariks_right_click"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="127dp"
+        android:layout_marginLeft="209dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintHorizontal_bias="0.137" />
+
+    <ImageButton
+        android:id="@+id/BariksF"
+        android:onClick="goToAndroxus"
+        android:layout_width="109dp"
+        android:layout_height="108dp"
+        android:src="@drawable/bariks_f"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="264dp"
+        android:layout_marginLeft="138dp"
+        app:layout_constraintRight_toLeftOf="@+id/BariksE"
+        android:layout_marginRight="8dp" />
+
+    <ImageButton
+        android:id="@+id/BariksQ"
+        android:onClick="goToAndroxus"
+        android:layout_width="109dp"
+        android:layout_height="108dp"
+        android:src="@drawable/bariks_q"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="264dp"
+        android:layout_marginLeft="16dp"
+        app:layout_constraintRight_toLeftOf="@+id/BariksF"
+        android:layout_marginRight="8dp" />
+
+    <ImageButton
+        android:id="@+id/BariksE"
+        android:onClick="goToAndroxus"
+        android:layout_width="109dp"
+        android:layout_height="108dp"
+        android:src="@drawable/bariks_e"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="264dp"
+        android:layout_marginLeft="259dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="184dp"
+        android:layout_height="61dp"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:text="Bariks Skills
+Role:Front Line"
+        android:textSize="25dp"
+        android:textColor="#000000"
+        android:layout_marginLeft="125dp"
+        android:layout_marginTop="47dp" />
+
+</android.support.constraint.ConstraintLayout>
